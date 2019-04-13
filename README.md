@@ -9,6 +9,6 @@ In the reproduction folder, we provide our jupyter notebook scripts for tree dat
 For example:
 ![result](result.png)
 
-If you have any questions about our results, please do not hesitate to ask in the issues. Thanks!  
+If you have any questions about our code, please do not hesitate to ask in the issues. Thanks!  
 
           
